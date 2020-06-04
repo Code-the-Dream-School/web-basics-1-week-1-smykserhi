@@ -9,3 +9,15 @@ padding: 0;
   background: #ddd;
   padding:1em;
 }
+.content-container{
+    text-align: center;
+    padding-top: 15px;
+    
+}
+.content-container p {
+    letter-spacing: 3px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 125%;
+    
+}
